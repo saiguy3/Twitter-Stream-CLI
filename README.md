@@ -1,5 +1,5 @@
 # Twitter Stream CLI
-This is CLI for the Twitter Streams Filter API.
+This is a CLI for the Twitter Streams Filter API.
 
 ## Set-Up
 1. Create a Twitter Developer account and set a `.env` file with the following four variables:
